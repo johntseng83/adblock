@@ -65,9 +65,9 @@ win007.com##[id^="tr2_"]
 win007.com##[id^="tr3_"]
 win007.com##[id^="tr4_"]
 live.win007.com##[colspan="15"]
-youtube.com##[layout="display-ad-layout-top-landscape-image"]
-youtube.com##[class^="item GoogleActiveViewElement"]
-youtube.com###YtSparklesVisibilityIdentifier
+!youtube.com##[layout="display-ad-layout-top-landscape-image"]
+!youtube.com##[class^="item GoogleActiveViewElement"]
+!youtube.com###YtSparklesVisibilityIdentifier
 zhuafan.tech###floatModal
 zhuafan.tech##.play-column
 zhuafan.tech##.notice
