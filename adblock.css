@@ -84,11 +84,11 @@ win007.com###bottom
 win007.com###ad
 win007.com###divFloatCai
 win007.com##.freeInfo
-!win007.com##[id^="tr2_"]
+win007.com##[id^="tr2_"]
 !win007.com##[id^="tr3_"]
 !win007.com##[id^="tr4_"]
-win007.com##body > table > tbody > tr > td > div
-win007.com###webmain > table
+!win007.com##body > table > tbody > tr > td > div
+!win007.com###webmain > table
 !live.win007.com##[colspan="15"]
 zhuafan.tech###floatModal
 zhuafan.tech##.play-column
