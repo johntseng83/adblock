@@ -44,6 +44,8 @@ dictionary.cambridge.org##.hdb.had.ddef.lmb-10.lpb-25.lpt-10.lpb-10.lb-cm.lbt
 dictionary.cambridge.org##.lb-cm.lbb.x.pr
 dictionary.cambridge.org##.di-head
 dm5.com##.normal.new-tip
+dm5.com##.container-fluid.footer
+||css122us.cdnmanhua.net/v202208091111/dm5/images/view_code_ad.jpg$image
 hktvmall.com##.CrazyAd
 hktvmall.com##.extra-banner-container
 lanjing.live##.live-room__info
@@ -93,6 +95,10 @@ mm-cg.com##[style^="font-size:20px;"]
 mm-cg.com###container > div
 mm-cg.com##div.main:nth-of-type(8)
 mm-cg.com##div:nth-of-type(1) > center > div:nth-of-type(2)
+mm-cg.com###cover_information
+mm-cg.com###coverclose_bottom
+mm-cg.com###suncover
+mm-cg.com###coverclose_top
 nowscore.com###top
 nowscore.com###main2
 nowscore.com##.main2_tool
