@@ -24,9 +24,8 @@ aastocks.com###topPanel > .container
 bet365.com##.fm-FooterModule
 bet365.com##.ig-InstantGamesModule
 bet365.com##.wc-InPlayPageResponsive_OffersContainer
-bet365.com##.flm-FooterLegacyModule_WidthState0.flm-FooterLegacyModule.flm-FooterLegacyModule-inplay
-bet365.com##.flm-FooterLegacyModule_WidthState1.flm-FooterLegacyModule.flm-FooterLegacyModule-inplay
-bet365.com##.flm-FooterLegacyModule_WidthState2.flm-FooterLegacyModule.flm-FooterLegacyModule-inplay
+#bet365.com##.flm-FooterLegacyModule_WidthState0.flm-FooterLegacyModule.flm-FooterLegacyModule-inplay
+bet365.com##[class^="flm-FooterLegacyModule_WidthState"]
 bet365.com##[class^="ipn-ClassificationButton ipn-ClassificationButton_Classification-10"]
 bet365.com##[class^="ipn-ClassificationButton ipn-ClassificationButton_Classification-11"]
 bet365.com##[class^="ipn-ClassificationButton ipn-ClassificationButton_Classification-12"]
